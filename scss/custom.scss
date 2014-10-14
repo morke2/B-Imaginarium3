@@ -1,0 +1,8 @@
+@import "bootstrap/_variables";
+@import "bootstrap/_mixins";
+
+body {
+  font-family: "Proxima Nova Regular","Segoe UI",Roboto,"Droid Sans","Helvetica Neue",Arial,sans-serif;
+  min-width: 480px;
+  color: #333;
+}
